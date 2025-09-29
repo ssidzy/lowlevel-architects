@@ -1,2 +1,42 @@
 # lowlevel-architects
-A collaborative workspace to explore and build foundational systems projects from scratch, including x86 Assembly programming, Linux kernel and filesystem development, and C compiler construction.
+
+**x86, kernels/filesystems, and a C compiler — built from scratch, together.**
+
+
+
+Contributors: **Siddarth**, **Avantika**
+
+
+
+## Table of Contents
+
+* [Overview](#overview)
+* [Repo Layout](#repo-layout)
+* [Quick Start](#quick-start)
+
+  * [Prerequisites](#prerequisites)
+  * [One-time Setup](#one-time-setup)
+  * [Hello Worlds (per track)](#hello-worlds-per-track)
+* [Projects](#projects)
+
+  * [1. x86 Assembly — pipeline-pirates](#1-x86-assembly--pipeline-pirates)
+  * [2. Linux Kernel & Filesystem — fork-yeah-filesystems](#2-linux-kernel--filesystem--fork-yeah-filesystems)
+  * [3. C Compiler — parse-and-plunder](#3-c-compiler--parse-and-plunder)
+* [Collaboration & Workflow](#collaboration--workflow)
+* [Contribution Guidelines](#contribution-guidelines)
+* [Roadmap](#roadmap)
+* [Learning Resources](#learning-resources)
+* [License](#license)
+* [Contact](#contact)
+
+---
+
+## Overview
+
+Welcome to our collaborative lab for building foundational systems projects from the ground up. We explore three pillars of systems programming:
+
+* **x86 Assembly Programming** — from MMX/SSE/AVX to mixed C/ASM and IEEE‑754.
+* **Linux Kernel & Filesystems** — VFS, custom disk FS, LKMs, mkfs/fsdb, mount/umount.
+* **C Compiler** — lexical analysis, parsing, codegen, stack frames, and calling conventions.
+
+Each contributor works independently in their folder, with shared docs and utilities in `/docs`.
