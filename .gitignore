@@ -1,0 +1,22 @@
+# Build artifacts
+artifacts/
+build/
+
+# System images
+*.img
+*.iso
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp

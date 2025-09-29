@@ -1,0 +1,18 @@
+---
+Language: Cpp
+BasedOnStyle: Linux
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 80
+BreakBeforeBraces: Linux
+AlignConsecutiveAssignments: false
+AlignConsecutiveDeclarations: false
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+IndentCaseLabels: false
+SpaceAfterCStyleCast: true
+SpaceBeforeParens: ControlStatements
+SpacesInParentheses: false
+SpacesInSquareBrackets: false

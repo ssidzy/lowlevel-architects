@@ -1,0 +1,25 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Source code
+*.c text
+*.h text
+*.s text
+*.S text
+*.asm text
+
+# Documentation
+*.md text
+*.txt text
+
+# Scripts
+*.sh text eol=lf
+*.py text eol=lf
+
+# Binary files
+*.img binary
+*.iso binary
+*.o binary
+*.a binary
+*.so binary
+*.exe binary
